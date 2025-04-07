@@ -74,7 +74,7 @@ conda activate zhihu
 打开命令行，执行该脚本：
 
 ```
-python .\getTopicHref.py
+python .\getColumnHref.py
 ```
 
 ![image-20250402220716299](https://raw.githubusercontent.com/davidChouccccc/image/main/img/image-20250402220716299.png)
