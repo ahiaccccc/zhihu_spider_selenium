@@ -137,10 +137,9 @@ python getUrlByTopic.py
 
 ![image-20250403181050619](https://raw.githubusercontent.com/davidChouccccc/image/main/img/image-20250403181050619.png)
 
-等待执行完毕，可以看到已经更新到了topic_article_links.txt和topic_answer_links.txt中
+等待执行完毕，可以看到已经更新到了topic_article_links.txt和topic_question_links.txt中
 
-![image-20250403181241424](https://raw.githubusercontent.com/davidChouccccc/image/main/img/image-20250403181241424.png)
-
+![image-20250408103247885](https://raw.githubusercontent.com/davidChouccccc/image/main/img/image-20250408103247885.png)
 
 
 ## 获取文章内容
